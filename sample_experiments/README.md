@@ -1,8 +1,7 @@
 # Sample Experiments
 
 This directory contains all the `.yml` config files and results of *Experiment 2* and *Experiment 3*:
-- **Experiment 2** aims at assessing, in a reproducible environment thanks to *AnonLLM*, the impact of the personalization strategy introduced in the [P5 paper](https://arxiv.org/pdf/2203.13366.pdf),
-by using the same prompts defined in the mentioned paper
+- **Experiment 2** aims at assessing, in a reproducible environment thanks to *AnonLLM*, the impact of the personalization strategy introduced in the [P5 paper](https://arxiv.org/pdf/2203.13366.pdf), by using the same prompts defined in the mentioned paper. The *P5 prompts* used can be found [here](https://doubleblind-anon.github.io/AnonLLM/yaml_usage/available_implementations/available_tasks/#p5-tasks)
 - **Experiment 3** aims at evaluating AnonLLM performances by varying the LLM backbone and use a novel set of more informative prompts.
 Majority of the runs overcame results of the mentioned *P5 paper*. The new set of prompts can be found [here](https://doubleblind-anon.github.io/AnonLLM/yaml_usage/available_implementations/available_tasks/)
 
